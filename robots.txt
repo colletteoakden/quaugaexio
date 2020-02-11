@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiyaekiebo.natsharpe.com/sitemap.xml
